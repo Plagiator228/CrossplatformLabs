@@ -1,0 +1,10 @@
+Smith Employee 75 9 14 30000
+Jones Manager 80 11 11 21000
+Taylor Cashier 82 4 1 20000
+Williams Cashier 81 7 20 15000
+Brown Cook 90 0 24 12000
+White Manager 80 11 11 17000
+Harris Cleaner 91 8 1 7500
+Martin Cook 84 8 13 9000
+Davies Cleaner 87 3 7 6500
+Wilson Cook 96 4 7 15000
