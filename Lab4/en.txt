@@ -1,0 +1,5 @@
+An email address identifies an email box to which messages are delivered. While early messaging systems used a variety of formats for addressing, today, email addresses follow a set of specific rules originally standardized by the Internet Engineering Task Force (IETF) in the 1980s, and updated by RFC 5322 and RFC 6854.
+
+An email address, such as john.smith@example.com, is made up from a local-part, the symbol@, and a domain name. Although the standard requires the local part to be case-sensitive, it also urges that receiving hosts deliver messages in a case-independent manner, e.g., that the mail system in the domain example.com treat John.Smith as equivalent to john.smith; some mail systems even treat them as equivalent to johnsmith. Mail systems often limit the users' choice of name to a subset of the technically permitted characters.
+
+The general format of an email address is local-part@domain. And a specific example is jsmith@example.com. Thus, an address consists of two principal parts, a username and a domain name. The domain name is used to transport a mail message to the host of the recipient's mail system.
