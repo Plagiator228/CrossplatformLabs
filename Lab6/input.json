@@ -1,0 +1,75 @@
+{
+    "season tickets": [
+        {"first_name": "Kovalenko", "last_name" : "Ivan", "middle_name" : "Ivanovych", "email": "kovaleiv@gmail.com", "books" : [
+
+        ]},
+
+
+        {"first_name":  "Tarasiuk", "last_name": "Vitalii" , "middle_name":  "Volodymyrovych", "email":  "tavivo@email.com",
+            "books": [
+                {"title" : " One Hundred Years of Solitude", "author": "Gabriel Garcia Marquez", "publish_year": 1942, "dates": [
+                    {"pickup_date": 1634071779, "expected_return_date": 1635713379}
+                ]},
+
+                {"title" : "Madame Bovary", "author": "Gustave Flaubert", "publish_year": 1806, "dates": [
+                    {"pickup_date": 1632096000, "expected_return_date": 1634688000},
+                ]}
+
+
+            ]
+        },
+
+        {"first_name":  "Polishuk", "last_name": "Olena" , "middle_name":  "Mykolaivna", "email":  "olena.polishuk@gmail.com",
+            "books": [
+                {"title" : " The Great Gatsby", "author": "F. Scott Fitzgerald", "publish_year": 1922, "dates": [
+                    {"pickup_date": 1604361600, "expected_return_date": 1608422400, "actual_return_date": 1609200000},
+                    {"pickup_date": 1635713379, "expected_return_date": 1638391779}
+                ]}
+            ]
+        },
+
+        {"first_name":  "Danyliuk", "last_name": "Kateryna" , "middle_name":  "Tarasivna", "email":  "Danylo007@email.com",
+            "books": [
+                {"title" : "Moby Dick", "author": "Herman Melville", "publish_year": 1851, "dates": [
+                    {"pickup_date": 1601337600, "expected_return_date": 1601337600,  "actual_return_date": 1601337600},
+                    {"pickup_date": 1630195200, "expected_return_date": 1632873600 }
+                ]}
+            ]
+        },
+
+
+
+        {"first_name":  "Gorbunov", "last_name": "Oleg" , "middle_name":  "Vsevolodych", "email":  "vseoleg@gmail.com",
+            "books": [
+                {"title" : " War and Peace", "author": "Leo Tolstoy", "publish_year": 1911, "dates": [
+                    {"pickup_date": 1635465600, "expected_return_date":  1638144000 }
+                ]},
+
+                {"title" : "Hamlet", "author": "William Shakespeare", "publish_year": 1601, "dates": [
+                    {"pickup_date": 1632096000, "expected_return_date":  1634688000}
+                ]},
+
+                {"title" : "The Odyssey", "author": "Homer", "publish_year": 120, "dates": [
+                    {"pickup_date": 1634601600, "expected_return_date":   1639526400}
+                ]}
+            ]
+        }
+    ],
+    "books":[
+        {"title" : "Ulysses", "author": "Leopold Bloom", "publish_year": 1904 , "dates": [
+            {"pickup_date": 1592513379, "expected_return_date": 1595105379, "actual_return_date": 1593809379}
+        ]},
+
+        {"title" : "Don Quixote", "author": "Miguel de Cervantes", "publish_year": 1846, "dates": [
+            {"pickup_date": 1628196579, "expected_return_date": 1630961379, "actual_return_date": 1631479779}
+        ]},
+
+        {"title" : "1984", "author": "George Orwell", "publish_year": 1950, "dates": [
+            {"pickup_date": 1633294179, "expected_return_date": 1633898979, "actual_return_date": 1633812579}
+        ]},
+
+        {"title" : "In Search of Lost Time", "author": "Marcel Proust", "publish_year": 1913, "dates": [
+            {"pickup_date": 1633294179, "expected_return_date": 1633898979, "actual_return_date": 1633812579}
+        ]}
+    ]
+}
